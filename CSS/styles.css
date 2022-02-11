@@ -1,0 +1,221 @@
+
+body {
+  background-color: #DDDDDD;
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Serif', serif;
+  position: relative;
+}
+
+hr {
+  margin: 0 auto 0 auto;
+  color: #362222;
+  border-style: dotted none none none;
+  border-width: 10px;
+  width: 50px;
+}
+
+h1 {
+  color: #362222;
+}
+
+h2 {
+  color: #362222;
+}
+
+p {
+  color: #171010;
+  font-size: 18px;
+}
+
+.divider {
+  height: 20px;
+}
+
+.dividerb {
+  height: 70px;
+}
+
+.dividert {
+  height: 30px;
+}
+
+.dividerbb {
+  height: 100px;
+}
+
+.hdivider {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+
+.heading {
+  height: 700px;
+  background-color: #362222;
+
+}
+
+.title {
+  color: #DDDDDD;
+  margin: 0 auto 0 auto;
+  width: 50%;
+  font-size: 100px;
+  margin-top: 200px;
+
+}
+
+.subtitle {
+  color: #DDDDDD;
+  margin: 0 auto 0 auto;
+  width: 50%;
+  font-size: 2.5rem;
+}
+
+.mid-container {
+  margin-top: 70px;
+  text-align: center;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+.introduction {
+  line-height: 1.7;
+
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 153.6px;
+  width: 153.6px;
+
+}
+
+.my-introduction {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.ilove {
+  text-align: left;
+}
+
+.left-align {
+  line-height: 1.5;
+  text-align: left;
+
+}
+
+.right-align {
+  text-align: right;
+}
+
+.code {
+  border-radius: 50%;
+  height: 153.6px;
+  width: 153.6px;
+  float:left;
+  margin-right: 10px;
+}
+
+.games {
+  border-radius: 50%;
+  height: 153.6px;
+  width: 153.6px;
+  float:right;
+  margin-left: 20px;
+
+}
+
+.exercise {
+  border-radius: 50%;
+  height: 153.6px;
+  width: 153.6px;
+  float:left;
+  margin-right: 10px;
+}
+
+.web {
+  border-radius: 30%;
+  height: 204.8px;
+  width: 204.8px;
+}
+
+.hacker {
+  border-radius: 30%;
+  height: 204.8px;
+  width: 204.8px;
+}
+
+.clock {
+  border-radius: 50%;
+  height: 153.6px;
+  width: 153.6px;
+  float:right;
+  margin-left: 20px;
+}
+
+.languages {
+  border-radius: 20%;
+  height: 153.6px;
+  width: 153.6px;
+  float:left;
+  margin-right: 20px;
+
+}
+
+.contact {
+
+}
+
+.twitter {
+  border-radius: 50%;
+  height: 56.4px;
+  width: 56.4px;
+  margin-right: 20px;
+}
+
+.twitter:hover {
+  opacity: 0.8;
+}
+
+
+.email {
+  border-radius: 50%;
+  height: 56.4px;
+  width: 56.4px;
+  margin-right: 20px;
+}
+
+.email:hover {
+  opacity: 0.8;
+}
+
+.linkedin {
+  border-radius: 50%;
+  height: 56.4px;
+  width: 56.4px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.linkedin:hover {
+  opacity: 0.8;
+}
+
+
+
+.bot-container {
+  text-align: center;
+  background-color: #362222;
+  padding: 10px 0 10px 0;
+}
+
+.copyright {
+  color: #DDDDDD;
+}
